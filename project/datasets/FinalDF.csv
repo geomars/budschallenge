@@ -1,0 +1,237 @@
+Country,Occupation,Female (Sex),Male (Sex),ratio,FathersTotPaid,MothersTotPaid,Delta
+Austria,1. Managers (ISCO-08),5556.0,9571.0,0.5805036046390137,6.9,51.2,44.300000000000004
+Austria,2. Professionals (ISCO-08),3925.0,5817.0,0.6747464328691766,6.9,51.2,44.300000000000004
+Austria,3. Technicians and associate professionals (ISCO-08),3028.0,4831.0,0.6267853446491409,6.9,51.2,44.300000000000004
+Austria,4. Clerical support workers (ISCO-08),2610.0,3692.0,0.7069339111592633,6.9,51.2,44.300000000000004
+Austria,5. Service and sales workers (ISCO-08),1674.0,2365.0,0.7078224101479915,6.9,51.2,44.300000000000004
+Austria,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1441.0,1762.0,0.8178206583427923,6.9,51.2,44.300000000000004
+Austria,7. Craft and related trades workers (ISCO-08),2101.0,3535.0,0.5943422913719943,6.9,51.2,44.300000000000004
+Austria,"8. Plant and machine operators, and assemblers (ISCO-08)",2207.0,3292.0,0.6704131227217497,6.9,51.2,44.300000000000004
+Austria,9. Elementary occupations (ISCO-08),1433.0,2236.0,0.6408765652951699,6.9,51.2,44.300000000000004
+Austria,TOTAL. Total (ISCO-08),2531.0,4038.0,0.6267954432887568,6.9,51.2,44.300000000000004
+Belgium,1. Managers (ISCO-08),7226.0,8442.0,0.8559583037194978,5.0,13.1,8.1
+Belgium,2. Professionals (ISCO-08),5081.0,5723.0,0.8878210728638826,5.0,13.1,8.1
+Belgium,3. Technicians and associate professionals (ISCO-08),3873.0,4564.0,0.8485977212971078,5.0,13.1,8.1
+Belgium,4. Clerical support workers (ISCO-08),3279.0,3538.0,0.9267947993216507,5.0,13.1,8.1
+Belgium,5. Service and sales workers (ISCO-08),2118.0,2844.0,0.7447257383966245,5.0,13.1,8.1
+Belgium,7. Craft and related trades workers (ISCO-08),2839.0,3403.0,0.8342638848075228,5.0,13.1,8.1
+Belgium,"8. Plant and machine operators, and assemblers (ISCO-08)",2930.0,3461.0,0.8465761340652991,5.0,13.1,8.1
+Belgium,9. Elementary occupations (ISCO-08),1874.0,2900.0,0.6462068965517241,5.0,13.1,8.1
+Belgium,TOTAL. Total (ISCO-08),3286.0,4163.0,0.7893346144607254,5.0,13.1,8.1
+Bulgaria,1. Managers (ISCO-08),2771.0,3264.0,0.8489583333333334,1.7,65.5,63.8
+Bulgaria,2. Professionals (ISCO-08),1591.0,2400.0,0.6629166666666667,1.7,65.5,63.8
+Bulgaria,3. Technicians and associate professionals (ISCO-08),1497.0,1750.0,0.8554285714285714,1.7,65.5,63.8
+Bulgaria,4. Clerical support workers (ISCO-08),1048.0,1171.0,0.8949615713065756,1.7,65.5,63.8
+Bulgaria,5. Service and sales workers (ISCO-08),789.0,767.0,1.0286831812255541,1.7,65.5,63.8
+Bulgaria,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2443.0,2323.0,1.0516573396470081,1.7,65.5,63.8
+Bulgaria,7. Craft and related trades workers (ISCO-08),830.0,1236.0,0.6715210355987055,1.7,65.5,63.8
+Bulgaria,"8. Plant and machine operators, and assemblers (ISCO-08)",857.0,1048.0,0.8177480916030534,1.7,65.5,63.8
+Bulgaria,9. Elementary occupations (ISCO-08),702.0,758.0,0.9261213720316622,1.7,65.5,63.8
+Bulgaria,TOTAL. Total (ISCO-08),1168.0,1365.0,0.8556776556776556,1.7,65.5,63.8
+Cyprus,1. Managers (ISCO-08),5426.0,6865.0,0.7903860160233066,0.0,13.5,13.5
+Cyprus,2. Professionals (ISCO-08),3774.0,4134.0,0.9129172714078374,0.0,13.5,13.5
+Cyprus,3. Technicians and associate professionals (ISCO-08),3025.0,3701.0,0.8173466630640367,0.0,13.5,13.5
+Cyprus,4. Clerical support workers (ISCO-08),2174.0,2293.0,0.948102921936328,0.0,13.5,13.5
+Cyprus,5. Service and sales workers (ISCO-08),1646.0,1907.0,0.8631358154168851,0.0,13.5,13.5
+Cyprus,7. Craft and related trades workers (ISCO-08),1556.0,2256.0,0.6897163120567376,0.0,13.5,13.5
+Cyprus,"8. Plant and machine operators, and assemblers (ISCO-08)",1791.0,2235.0,0.8013422818791947,0.0,13.5,13.5
+Cyprus,9. Elementary occupations (ISCO-08),1506.0,1723.0,0.8740568775391758,0.0,13.5,13.5
+Cyprus,TOTAL. Total (ISCO-08),2459.0,2990.0,0.8224080267558529,0.0,13.5,13.5
+Czech Republic,1. Managers (ISCO-08),3837.0,5278.0,0.7269799166350891,0.0,53.1,53.1
+Czech Republic,2. Professionals (ISCO-08),2717.0,3734.0,0.7276379217996787,0.0,53.1,53.1
+Czech Republic,3. Technicians and associate professionals (ISCO-08),2227.0,2774.0,0.8028118240807498,0.0,53.1,53.1
+Czech Republic,4. Clerical support workers (ISCO-08),1784.0,2212.0,0.8065099457504521,0.0,53.1,53.1
+Czech Republic,5. Service and sales workers (ISCO-08),1390.0,1611.0,0.8628181253879578,0.0,53.1,53.1
+Czech Republic,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1477.0,1739.0,0.8493387004025302,0.0,53.1,53.1
+Czech Republic,7. Craft and related trades workers (ISCO-08),1517.0,1990.0,0.7623115577889448,0.0,53.1,53.1
+Czech Republic,"8. Plant and machine operators, and assemblers (ISCO-08)",1635.0,1945.0,0.8406169665809768,0.0,53.1,53.1
+Czech Republic,9. Elementary occupations (ISCO-08),1179.0,1481.0,0.7960837272113437,0.0,53.1,53.1
+Czech Republic,TOTAL. Total (ISCO-08),1966.0,2499.0,0.7867146858743498,0.0,53.1,53.1
+Denmark,1. Managers (ISCO-08),6374.0,8229.0,0.7745777129663386,1.1,26.8,25.7
+Denmark,2. Professionals (ISCO-08),4596.0,5865.0,0.7836317135549872,1.1,26.8,25.7
+Denmark,3. Technicians and associate professionals (ISCO-08),4343.0,5490.0,0.7910746812386157,1.1,26.8,25.7
+Denmark,4. Clerical support workers (ISCO-08),3805.0,3894.0,0.9771443246019518,1.1,26.8,25.7
+Denmark,5. Service and sales workers (ISCO-08),3004.0,3157.0,0.9515362686094393,1.1,26.8,25.7
+Denmark,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",3309.0,3613.0,0.9158593966233047,1.1,26.8,25.7
+Denmark,7. Craft and related trades workers (ISCO-08),3409.0,4188.0,0.813992359121299,1.1,26.8,25.7
+Denmark,"8. Plant and machine operators, and assemblers (ISCO-08)",3597.0,4176.0,0.8613505747126436,1.1,26.8,25.7
+Denmark,9. Elementary occupations (ISCO-08),2838.0,3427.0,0.8281295593813831,1.1,26.8,25.7
+Denmark,TOTAL. Total (ISCO-08),3848.0,4737.0,0.8123284779396243,1.1,26.8,25.7
+Estonia,1. Managers (ISCO-08),3097.0,4163.0,0.7439346625030027,2.0,85.0,83.0
+Estonia,2. Professionals (ISCO-08),2250.0,3283.0,0.6853487663722205,2.0,85.0,83.0
+Estonia,3. Technicians and associate professionals (ISCO-08),2002.0,2778.0,0.720662347012239,2.0,85.0,83.0
+Estonia,4. Clerical support workers (ISCO-08),1629.0,2013.0,0.8092399403874814,2.0,85.0,83.0
+Estonia,5. Service and sales workers (ISCO-08),1217.0,1460.0,0.8335616438356165,2.0,85.0,83.0
+Estonia,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1293.0,1823.0,0.7092704333516182,2.0,85.0,83.0
+Estonia,7. Craft and related trades workers (ISCO-08),1419.0,2165.0,0.6554272517321016,2.0,85.0,83.0
+Estonia,"8. Plant and machine operators, and assemblers (ISCO-08)",1468.0,1969.0,0.7455561198577958,2.0,85.0,83.0
+Estonia,9. Elementary occupations (ISCO-08),1079.0,1477.0,0.7305348679756263,2.0,85.0,83.0
+Estonia,TOTAL. Total (ISCO-08),1721.0,2429.0,0.7085220255249074,2.0,85.0,83.0
+Finland,1. Managers (ISCO-08),5887.0,7286.0,0.8079879220422729,5.7,40.6,34.9
+Finland,2. Professionals (ISCO-08),4169.0,5013.0,0.831637741871135,5.7,40.6,34.9
+Finland,3. Technicians and associate professionals (ISCO-08),3213.0,4060.0,0.7913793103448276,5.7,40.6,34.9
+Finland,4. Clerical support workers (ISCO-08),2730.0,2745.0,0.994535519125683,5.7,40.6,34.9
+Finland,5. Service and sales workers (ISCO-08),2273.0,2620.0,0.8675572519083969,5.7,40.6,34.9
+Finland,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2357.0,2510.0,0.9390438247011952,5.7,40.6,34.9
+Finland,7. Craft and related trades workers (ISCO-08),2574.0,3009.0,0.8554336989032901,5.7,40.6,34.9
+Finland,"8. Plant and machine operators, and assemblers (ISCO-08)",2676.0,3202.0,0.8357276702061212,5.7,40.6,34.9
+Finland,9. Elementary occupations (ISCO-08),1905.0,2427.0,0.7849196538936959,5.7,40.6,34.9
+Finland,TOTAL. Total (ISCO-08),3016.0,3749.0,0.8044811949853294,5.7,40.6,34.9
+France,1. Managers (ISCO-08),5548.0,7260.0,0.7641873278236915,5.6,18.8,13.200000000000001
+France,2. Professionals (ISCO-08),3875.0,5165.0,0.750242013552759,5.6,18.8,13.200000000000001
+France,3. Technicians and associate professionals (ISCO-08),3190.0,3654.0,0.873015873015873,5.6,18.8,13.200000000000001
+France,4. Clerical support workers (ISCO-08),2613.0,2723.0,0.9596033786265149,5.6,18.8,13.200000000000001
+France,5. Service and sales workers (ISCO-08),2377.0,2708.0,0.8777695716395865,5.6,18.8,13.200000000000001
+France,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2575.0,2262.0,1.1383731211317418,5.6,18.8,13.200000000000001
+France,7. Craft and related trades workers (ISCO-08),2255.0,2729.0,0.8263100036643459,5.6,18.8,13.200000000000001
+France,"8. Plant and machine operators, and assemblers (ISCO-08)",2355.0,2819.0,0.8354026250443419,5.6,18.8,13.200000000000001
+France,9. Elementary occupations (ISCO-08),2071.0,2332.0,0.8880789022298456,5.6,18.8,13.200000000000001
+France,TOTAL. Total (ISCO-08),3090.0,3770.0,0.8196286472148541,5.6,18.8,13.200000000000001
+Germany,1. Managers (ISCO-08),7535.0,10351.0,0.7279489904357067,5.7,42.6,36.9
+Germany,2. Professionals (ISCO-08),5228.0,6695.0,0.7808812546676624,5.7,42.6,36.9
+Germany,3. Technicians and associate professionals (ISCO-08),3804.0,5160.0,0.7372093023255814,5.7,42.6,36.9
+Germany,4. Clerical support workers (ISCO-08),3548.0,3904.0,0.9088114754098361,5.7,42.6,36.9
+Germany,5. Service and sales workers (ISCO-08),2545.0,2883.0,0.8827610128338537,5.7,42.6,36.9
+Germany,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2431.0,2927.0,0.8305432183122651,5.7,42.6,36.9
+Germany,7. Craft and related trades workers (ISCO-08),2856.0,3694.0,0.7731456415809421,5.7,42.6,36.9
+Germany,"8. Plant and machine operators, and assemblers (ISCO-08)",2755.0,3420.0,0.8055555555555556,5.7,42.6,36.9
+Germany,9. Elementary occupations (ISCO-08),2208.0,2412.0,0.9154228855721394,5.7,42.6,36.9
+Germany,TOTAL. Total (ISCO-08),3442.0,4437.0,0.7757493802118549,5.7,42.6,36.9
+Greece,1. Managers (ISCO-08),2577.0,2698.0,0.9551519644180875,0.4,23.3,22.900000000000002
+Greece,2. Professionals (ISCO-08),1670.0,1899.0,0.8794102159031069,0.4,23.3,22.900000000000002
+Greece,3. Technicians and associate professionals (ISCO-08),1476.0,1892.0,0.7801268498942917,0.4,23.3,22.900000000000002
+Greece,4. Clerical support workers (ISCO-08),1385.0,1517.0,0.912986156888596,0.4,23.3,22.900000000000002
+Greece,5. Service and sales workers (ISCO-08),1019.0,1304.0,0.781441717791411,0.4,23.3,22.900000000000002
+Greece,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",964.0,1055.0,0.9137440758293839,0.4,23.3,22.900000000000002
+Greece,7. Craft and related trades workers (ISCO-08),1084.0,1292.0,0.8390092879256966,0.4,23.3,22.900000000000002
+Greece,"8. Plant and machine operators, and assemblers (ISCO-08)",1091.0,1469.0,0.7426820966643976,0.4,23.3,22.900000000000002
+Greece,9. Elementary occupations (ISCO-08),913.0,1111.0,0.8217821782178217,0.4,23.3,22.900000000000002
+Greece,TOTAL. Total (ISCO-08),1320.0,1525.0,0.8655737704918033,0.4,23.3,22.900000000000002
+Hungary,1. Managers (ISCO-08),3551.0,5101.0,0.6961380121544796,1.0,71.8,70.8
+Hungary,2. Professionals (ISCO-08),2500.0,3564.0,0.7014590347923682,1.0,71.8,70.8
+Hungary,3. Technicians and associate professionals (ISCO-08),1837.0,2507.0,0.7327483047467093,1.0,71.8,70.8
+Hungary,4. Clerical support workers (ISCO-08),1619.0,1944.0,0.8328189300411523,1.0,71.8,70.8
+Hungary,5. Service and sales workers (ISCO-08),1185.0,1417.0,0.8362738179251941,1.0,71.8,70.8
+Hungary,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1065.0,1193.0,0.892707460184409,1.0,71.8,70.8
+Hungary,7. Craft and related trades workers (ISCO-08),1288.0,1698.0,0.7585394581861012,1.0,71.8,70.8
+Hungary,"8. Plant and machine operators, and assemblers (ISCO-08)",1420.0,1766.0,0.8040770101925255,1.0,71.8,70.8
+Hungary,9. Elementary occupations (ISCO-08),887.0,966.0,0.9182194616977226,1.0,71.8,70.8
+Hungary,TOTAL. Total (ISCO-08),1797.0,2168.0,0.8288745387453874,1.0,71.8,70.8
+Ireland,1. Managers (ISCO-08),5434.0,6625.0,0.8202264150943396,0.0,8.9,8.9
+Ireland,2. Professionals (ISCO-08),5806.0,7132.0,0.8140773976444196,0.0,8.9,8.9
+Ireland,3. Technicians and associate professionals (ISCO-08),4489.0,5403.0,0.8308347214510458,0.0,8.9,8.9
+Ireland,4. Clerical support workers (ISCO-08),3731.0,4749.0,0.7856390819119815,0.0,8.9,8.9
+Ireland,5. Service and sales workers (ISCO-08),3022.0,3467.0,0.8716469570233631,0.0,8.9,8.9
+Ireland,7. Craft and related trades workers (ISCO-08),3440.0,4399.0,0.7819959081609457,0.0,8.9,8.9
+Ireland,"8. Plant and machine operators, and assemblers (ISCO-08)",3523.0,4102.0,0.8588493417844953,0.0,8.9,8.9
+Ireland,9. Elementary occupations (ISCO-08),2689.0,3600.0,0.7469444444444444,0.0,8.9,8.9
+Ireland,TOTAL. Total (ISCO-08),4207.0,5130.0,0.8200779727095516,0.0,8.9,8.9
+Italy,1. Managers (ISCO-08),6621.0,10265.0,0.645007306380906,0.4,25.2,24.8
+Italy,2. Professionals (ISCO-08),3715.0,5278.0,0.7038651004168246,0.4,25.2,24.8
+Italy,3. Technicians and associate professionals (ISCO-08),3251.0,4163.0,0.780927215950036,0.4,25.2,24.8
+Italy,4. Clerical support workers (ISCO-08),2911.0,3321.0,0.8765432098765432,0.4,25.2,24.8
+Italy,5. Service and sales workers (ISCO-08),2413.0,2745.0,0.8790528233151184,0.4,25.2,24.8
+Italy,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2378.0,2186.0,1.0878316559926806,0.4,25.2,24.8
+Italy,7. Craft and related trades workers (ISCO-08),2242.0,2928.0,0.7657103825136612,0.4,25.2,24.8
+Italy,"8. Plant and machine operators, and assemblers (ISCO-08)",2424.0,2948.0,0.8222523744911805,0.4,25.2,24.8
+Italy,9. Elementary occupations (ISCO-08),2134.0,2464.0,0.8660714285714286,0.4,25.2,24.8
+Italy,TOTAL. Total (ISCO-08),2989.0,3624.0,0.8247792494481236,0.4,25.2,24.8
+Latvia,1. Managers (ISCO-08),2665.0,3239.0,0.8227848101265823,1.1,53.3,52.199999999999996
+Latvia,2. Professionals (ISCO-08),1791.0,2614.0,0.6851568477429227,1.1,53.3,52.199999999999996
+Latvia,3. Technicians and associate professionals (ISCO-08),1670.0,2158.0,0.7738646895273401,1.1,53.3,52.199999999999996
+Latvia,4. Clerical support workers (ISCO-08),1420.0,1654.0,0.8585247883917775,1.1,53.3,52.199999999999996
+Latvia,5. Service and sales workers (ISCO-08),1019.0,1247.0,0.8171611868484362,1.1,53.3,52.199999999999996
+Latvia,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",946.0,1805.0,0.5240997229916897,1.1,53.3,52.199999999999996
+Latvia,7. Craft and related trades workers (ISCO-08),1101.0,1561.0,0.7053171044202434,1.1,53.3,52.199999999999996
+Latvia,"8. Plant and machine operators, and assemblers (ISCO-08)",1241.0,1464.0,0.8476775956284153,1.1,53.3,52.199999999999996
+Latvia,9. Elementary occupations (ISCO-08),904.0,1120.0,0.8071428571428572,1.1,53.3,52.199999999999996
+Latvia,TOTAL. Total (ISCO-08),1481.0,1815.0,0.8159779614325069,1.1,53.3,52.199999999999996
+Luxembourg,1. Managers (ISCO-08),8007.0,10303.0,0.7771522857420169,10.4,26.0,15.6
+Luxembourg,2. Professionals (ISCO-08),6494.0,6598.0,0.9842376477720521,10.4,26.0,15.6
+Luxembourg,3. Technicians and associate professionals (ISCO-08),4984.0,5184.0,0.9614197530864198,10.4,26.0,15.6
+Luxembourg,4. Clerical support workers (ISCO-08),4020.0,4165.0,0.9651860744297719,10.4,26.0,15.6
+Luxembourg,5. Service and sales workers (ISCO-08),3089.0,3355.0,0.9207153502235469,10.4,26.0,15.6
+Luxembourg,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2533.0,3037.0,0.8340467566677643,10.4,26.0,15.6
+Luxembourg,7. Craft and related trades workers (ISCO-08),2805.0,3574.0,0.7848349188584219,10.4,26.0,15.6
+Luxembourg,"8. Plant and machine operators, and assemblers (ISCO-08)",2865.0,3616.0,0.7923119469026548,10.4,26.0,15.6
+Luxembourg,9. Elementary occupations (ISCO-08),2662.0,2891.0,0.9207886544448288,10.4,26.0,15.6
+Luxembourg,TOTAL. Total (ISCO-08),4536.0,4917.0,0.9225137278828553,10.4,26.0,15.6
+Malta,1. Managers (ISCO-08),4380.0,5710.0,0.7670753064798599,0.2,15.7,15.5
+Malta,2. Professionals (ISCO-08),3330.0,3980.0,0.8366834170854272,0.2,15.7,15.5
+Malta,3. Technicians and associate professionals (ISCO-08),2906.0,3354.0,0.8664281454979129,0.2,15.7,15.5
+Malta,4. Clerical support workers (ISCO-08),2361.0,2489.0,0.9485737243873041,0.2,15.7,15.5
+Malta,5. Service and sales workers (ISCO-08),2205.0,2308.0,0.9553726169844021,0.2,15.7,15.5
+Malta,7. Craft and related trades workers (ISCO-08),2247.0,2594.0,0.8662297609868929,0.2,15.7,15.5
+Malta,"8. Plant and machine operators, and assemblers (ISCO-08)",2249.0,2558.0,0.8792025019546521,0.2,15.7,15.5
+Malta,9. Elementary occupations (ISCO-08),1743.0,2052.0,0.8494152046783626,0.2,15.7,15.5
+Malta,TOTAL. Total (ISCO-08),2682.0,3145.0,0.8527821939586645,0.2,15.7,15.5
+Netherlands,1. Managers (ISCO-08),5406.0,7197.0,0.7511463109629012,0.4,16.0,15.6
+Netherlands,2. Professionals (ISCO-08),4372.0,5317.0,0.822268196351326,0.4,16.0,15.6
+Netherlands,3. Technicians and associate professionals (ISCO-08),3498.0,4595.0,0.7612622415669206,0.4,16.0,15.6
+Netherlands,4. Clerical support workers (ISCO-08),3002.0,3485.0,0.8614060258249642,0.4,16.0,15.6
+Netherlands,5. Service and sales workers (ISCO-08),2558.0,2774.0,0.9221341023792358,0.4,16.0,15.6
+Netherlands,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2412.0,2565.0,0.9403508771929825,0.4,16.0,15.6
+Netherlands,7. Craft and related trades workers (ISCO-08),2424.0,3431.0,0.7064995628096765,0.4,16.0,15.6
+Netherlands,"8. Plant and machine operators, and assemblers (ISCO-08)",2639.0,3301.0,0.7994547106937292,0.4,16.0,15.6
+Netherlands,9. Elementary occupations (ISCO-08),2114.0,2237.0,0.9450156459544032,0.4,16.0,15.6
+Netherlands,TOTAL. Total (ISCO-08),3283.0,4148.0,0.7914657666345226,0.4,16.0,15.6
+Poland,1. Managers (ISCO-08),3986.0,5513.0,0.7230183203337566,2.0,41.6,39.6
+Poland,2. Professionals (ISCO-08),2547.0,3450.0,0.7382608695652174,2.0,41.6,39.6
+Poland,3. Technicians and associate professionals (ISCO-08),2071.0,2722.0,0.7608376193975018,2.0,41.6,39.6
+Poland,4. Clerical support workers (ISCO-08),1826.0,1871.0,0.9759486905398183,2.0,41.6,39.6
+Poland,5. Service and sales workers (ISCO-08),1333.0,1513.0,0.8810310641110377,2.0,41.6,39.6
+Poland,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1315.0,1504.0,0.8743351063829787,2.0,41.6,39.6
+Poland,7. Craft and related trades workers (ISCO-08),1365.0,1991.0,0.6855851330989452,2.0,41.6,39.6
+Poland,"8. Plant and machine operators, and assemblers (ISCO-08)",1622.0,1994.0,0.8134403209628887,2.0,41.6,39.6
+Poland,9. Elementary occupations (ISCO-08),1259.0,1511.0,0.8332230311052283,2.0,41.6,39.6
+Poland,TOTAL. Total (ISCO-08),2093.0,2544.0,0.8227201257861635,2.0,41.6,39.6
+Portugal,1. Managers (ISCO-08),2175.0,2801.0,0.776508389860764,12.5,20.4,7.899999999999999
+Portugal,2. Professionals (ISCO-08),2062.0,2341.0,0.8808201623237932,12.5,20.4,7.899999999999999
+Portugal,3. Technicians and associate professionals (ISCO-08),1506.0,1795.0,0.8389972144846797,12.5,20.4,7.899999999999999
+Portugal,4. Clerical support workers (ISCO-08),1224.0,1325.0,0.9237735849056604,12.5,20.4,7.899999999999999
+Portugal,5. Service and sales workers (ISCO-08),981.0,1306.0,0.7511485451761103,12.5,20.4,7.899999999999999
+Portugal,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",776.0,947.0,0.8194297782470961,12.5,20.4,7.899999999999999
+Portugal,7. Craft and related trades workers (ISCO-08),969.0,1219.0,0.7949138638228056,12.5,20.4,7.899999999999999
+Portugal,"8. Plant and machine operators, and assemblers (ISCO-08)",957.0,1279.0,0.7482408131352619,12.5,20.4,7.899999999999999
+Portugal,9. Elementary occupations (ISCO-08),785.0,998.0,0.7865731462925851,12.5,20.4,7.899999999999999
+Portugal,TOTAL. Total (ISCO-08),1316.0,1564.0,0.8414322250639387,12.5,20.4,7.899999999999999
+Slovenia,1. Managers (ISCO-08),4683.0,4840.0,0.9675619834710744,2.6,48.4,45.8
+Slovenia,2. Professionals (ISCO-08),3756.0,4443.0,0.8453747467927076,2.6,48.4,45.8
+Slovenia,3. Technicians and associate professionals (ISCO-08),2897.0,3335.0,0.8686656671664168,2.6,48.4,45.8
+Slovenia,4. Clerical support workers (ISCO-08),2496.0,2481.0,1.0060459492140266,2.6,48.4,45.8
+Slovenia,5. Service and sales workers (ISCO-08),1851.0,2290.0,0.8082969432314411,2.6,48.4,45.8
+Slovenia,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1827.0,2083.0,0.8771003360537686,2.6,48.4,45.8
+Slovenia,7. Craft and related trades workers (ISCO-08),1853.0,2300.0,0.8056521739130434,2.6,48.4,45.8
+Slovenia,"8. Plant and machine operators, and assemblers (ISCO-08)",1842.0,2298.0,0.8015665796344648,2.6,48.4,45.8
+Slovenia,9. Elementary occupations (ISCO-08),1607.0,1934.0,0.8309203722854188,2.6,48.4,45.8
+Slovenia,TOTAL. Total (ISCO-08),2783.0,2957.0,0.9411565776124451,2.6,48.4,45.8
+Spain,1. Managers (ISCO-08),5399.0,6591.0,0.819147322105902,2.1,16.0,13.9
+Spain,2. Professionals (ISCO-08),3980.0,4814.0,0.8267552970502701,2.1,16.0,13.9
+Spain,3. Technicians and associate professionals (ISCO-08),2993.0,3723.0,0.803921568627451,2.1,16.0,13.9
+Spain,4. Clerical support workers (ISCO-08),2473.0,3076.0,0.8039661898569571,2.1,16.0,13.9
+Spain,5. Service and sales workers (ISCO-08),1714.0,2410.0,0.7112033195020747,2.1,16.0,13.9
+Spain,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1987.0,1992.0,0.9974899598393574,2.1,16.0,13.9
+Spain,7. Craft and related trades workers (ISCO-08),1951.0,2643.0,0.738176314793795,2.1,16.0,13.9
+Spain,"8. Plant and machine operators, and assemblers (ISCO-08)",2275.0,2764.0,0.823082489146165,2.1,16.0,13.9
+Spain,9. Elementary occupations (ISCO-08),1320.0,1949.0,0.6772703950743971,2.1,16.0,13.9
+Spain,TOTAL. Total (ISCO-08),2463.0,3180.0,0.7745283018867924,2.1,16.0,13.9
+Sweden,1. Managers (ISCO-08),5590.0,6676.0,0.8373277411623726,10.9,34.7,23.800000000000004
+Sweden,2. Professionals (ISCO-08),3899.0,4810.0,0.8106029106029106,10.9,34.7,23.800000000000004
+Sweden,3. Technicians and associate professionals (ISCO-08),3620.0,4273.0,0.8471799672361339,10.9,34.7,23.800000000000004
+Sweden,4. Clerical support workers (ISCO-08),3150.0,3270.0,0.963302752293578,10.9,34.7,23.800000000000004
+Sweden,5. Service and sales workers (ISCO-08),2919.0,3037.0,0.9611458676325321,10.9,34.7,23.800000000000004
+Sweden,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",2838.0,2999.0,0.9463154384794932,10.9,34.7,23.800000000000004
+Sweden,7. Craft and related trades workers (ISCO-08),3175.0,3586.0,0.8853876185164529,10.9,34.7,23.800000000000004
+Sweden,"8. Plant and machine operators, and assemblers (ISCO-08)",3191.0,3438.0,0.9281559045956952,10.9,34.7,23.800000000000004
+Sweden,9. Elementary occupations (ISCO-08),2616.0,2862.0,0.9140461215932913,10.9,34.7,23.800000000000004
+Sweden,TOTAL. Total (ISCO-08),3429.0,4028.0,0.8512909632571996,10.9,34.7,23.800000000000004
+United Kingdom,1. Managers (ISCO-08),4203.0,6003.0,0.7001499250374813,0.4,12.1,11.7
+United Kingdom,2. Professionals (ISCO-08),3627.0,4832.0,0.7506208609271523,0.4,12.1,11.7
+United Kingdom,3. Technicians and associate professionals (ISCO-08),2540.0,3643.0,0.697227559703541,0.4,12.1,11.7
+United Kingdom,4. Clerical support workers (ISCO-08),1851.0,2470.0,0.7493927125506072,0.4,12.1,11.7
+United Kingdom,5. Service and sales workers (ISCO-08),1438.0,2302.0,0.6246741963509991,0.4,12.1,11.7
+United Kingdom,"6. Skilled agricultural, forestry and fishery workers (ISCO-08)",1720.0,2206.0,0.7796917497733454,0.4,12.1,11.7
+United Kingdom,7. Craft and related trades workers (ISCO-08),2071.0,3143.0,0.6589245943366211,0.4,12.1,11.7
+United Kingdom,"8. Plant and machine operators, and assemblers (ISCO-08)",1893.0,2738.0,0.6913805697589481,0.4,12.1,11.7
+United Kingdom,9. Elementary occupations (ISCO-08),985.0,1943.0,0.5069480185280494,0.4,12.1,11.7
+United Kingdom,TOTAL. Total (ISCO-08),2363.0,3691.0,0.6402059062584665,0.4,12.1,11.7
